@@ -1,3 +1,4 @@
 # vigenere cipher in fortran
-self explanatory...
-no handling lowercase/symbols yet
+self explanatory.
+
+![](https://raw.githubusercontent.com/yuvlian/vig-cipher/main/Capture.PNG)
